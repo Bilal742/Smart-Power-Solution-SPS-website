@@ -1,1 +1,34 @@
-# Smart-Power-Solution-SPS-website
+# ⚡ Smart Power Solution (SPS)
+
+### 🌐 Live Demo  
+https://alive-calendar.surge.sh/
+
+---
+
+## 🧠 About the Project  
+**Smart Power Solution (SPS)** is a professional electronics and electrical services website.  
+It is designed to represent the company’s brand, showcase their services, and provide users with an easy way to contact and learn about SPS.  
+
+This website is fully responsive, modern, and optimized for all screen sizes — from desktop to mobile.
+
+---
+
+## 🎯 Purpose  
+The goal of this website is to create a **clean, functional, and visually attractive platform** for Smart Power Solution, allowing potential customers to easily explore the company's products and services.
+
+---
+
+## 💡 Features  
+- 🏠 **Home Page:** Attractive hero section with company introduction  
+- 💼 **Services Page:** Detailed list of all the services offered  
+- 📞 **Contact Page:** Contact form and direct communication info  
+- ⚙️ **Responsive Design:** Works perfectly on mobile, tablet, and desktop  
+- 🎨 **Dark Theme:** Elegant black background with smooth animations  
+- 🚀 **Fast Loading:** Lightweight and optimized for performance  
+
+---
+
+## 🧰 Technologies Used  
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling, layout, animations, responsiveness  
+- **JavaScript – Interactivity and small dynamic elements
