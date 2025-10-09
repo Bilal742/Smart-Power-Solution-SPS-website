@@ -30,5 +30,7 @@ The goal of this website is to create a **clean, functional, and visually attrac
 
 ## 🧰 Technologies Used  
 - **HTML5** – Structure of the website  
-- **CSS3** – Styling, layout, animations, responsiveness  
-- **JavaScript – Interactivity and small dynamic elements
+- **CSS3** – Styling, layout, animations, and responsiveness  
+- **Tailwind CSS** – Utility-first CSS framework for fast and responsive design  
+- **JavaScript (Vanilla JS)** – Interactivity and small dynamic elements  
+
