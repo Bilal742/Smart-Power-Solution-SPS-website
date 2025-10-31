@@ -1,7 +1,7 @@
 # ⚡ Smart Power Solution (SPS)
 
 ### 🌐 Live Demo  
-https://alive-calendar.surge.sh/
+https://smart-power-solution.netlify.app/
 
 ---
 
