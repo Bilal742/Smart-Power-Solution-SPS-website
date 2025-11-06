@@ -1,7 +1,7 @@
 # ⚡ Smart Power Solution (SPS)
 
 ### 🌐 Live Demo  
-https://smart-power-solution.netlify.app/
+https://smart-power-solution.vercel.app/
 
 ---
 
