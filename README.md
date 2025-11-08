@@ -1,7 +1,7 @@
 # ⚡ Smart Power Solution (SPS)
 
 ### 🖼️ Preview
-![Smart Power Solution Preview](/sps.png)
+![Smart Power Solution Preview](/Img/sps.png)
 
 ### 🌐 Live Demo  
 https://smart-power-solution.vercel.app/
