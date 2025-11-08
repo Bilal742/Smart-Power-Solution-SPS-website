@@ -1,13 +1,5 @@
 # ⚡ Smart Power Solution (SPS)
 
-### 🖼️ Preview
-![Smart Power Solution Preview](/Img/sps.png)
-
-### 🌐 Live Demo  
-https://smart-power-solution.vercel.app/
-
----
-
 ## 🧠 About the Project  
 **Smart Power Solution (SPS)** is a professional electronics and electrical services website.  
 It is designed to represent the company’s brand, showcase their services, and provide users with an easy way to contact and learn about SPS.  
@@ -36,4 +28,14 @@ The goal of this website is to create a **clean, functional, and visually attrac
 - **CSS3** – Styling, layout, animations, and responsiveness  
 - **Tailwind CSS** – Utility-first CSS framework for fast and responsive design  
 - **JavaScript (Vanilla JS)** – Interactivity and small dynamic elements  
+
+---
+
+### 🖼️ Preview
+![Smart Power Solution Preview](/Img/sps.png)
+
+### 🌐 Live Demo  
+https://smart-power-solution.vercel.app/
+
+---
 
