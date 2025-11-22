@@ -1,7 +1,7 @@
 # ⚡ Smart Power Solution (SPS)
 
 ## 🧠 About the Project  
-**Smart Power Solution (SPS)** is a professional electronics and electrical services website.  
+**Smart Power Solution (SPS)** is a professional electronics and electrical services website. 
 It is designed to represent the company’s brand, showcase their services, and provide users with an easy way to contact and learn about SPS.  
 
 This website is fully responsive, modern, and optimized for all screen sizes — from desktop to mobile.
